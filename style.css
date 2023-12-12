@@ -891,7 +891,7 @@ img {
 }
 
 .portfolio__title {
-  font-size: var(--title-color, #242329);
+  font-size: 24px;
   margin-bottom: 0.5rem;
 }
 
