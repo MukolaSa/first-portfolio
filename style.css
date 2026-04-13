@@ -566,10 +566,11 @@ img {
 /* доробити щоб іконка ховалась */
 
 /* Scroll sections Active link */
-/* .active__link {
+.active__link {
   color: #6C55E0;
-} */
+}
 
+/* Change bg header */
 .scroll-header {
   box-shadow: 0 -1px 4px rgba(0, 0, 0, .15);
 }
